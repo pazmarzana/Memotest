@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    /* box-sizing: content-box; */
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 500px;
+}
+img {
+    border: 1px solid black;
+    margin: 4px;
+    border-radius: 10%;
+}
